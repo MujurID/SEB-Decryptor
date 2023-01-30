@@ -36,6 +36,6 @@ URL={test_url}
 """)
 
 
-filepath = input("請輸入檔名(不需副檔名)") + '.seb'
-seb_password = input("請輸入密碼")
+filepath = input("請輸入檔名(不需副檔名)-Nama File: ") + '.seb'
+seb_password = input("請輸入密碼-SEB Password: ")
 decrypt_SEB(filepath, seb_password)
