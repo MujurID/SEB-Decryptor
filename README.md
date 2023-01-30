@@ -15,3 +15,5 @@
 參考文獻：
 
 https://stackoverflow.com/questions/65978849/is-it-possible-to-decrypt-seb-file-having-password
+
+https://github.com/PoterPan/SEB_Decryptor
